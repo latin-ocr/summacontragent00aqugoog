@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./summacontragent00aqugoog_0282.png"; bbox 0 0 4597 5696; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 690 369 874 468">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 690 369 874 468">
+     <span class='ocr_line' id='line_1_1' title="bbox 690 369 874 468; baseline -0.016 -16"><span class='ocrx_word' id='word_1_1' title='bbox 690 373 705 387; x_wconf 59' lang='lat'><em>„</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 747 369 874 468; x_wconf 55' lang='grc' dir='ltr'><strong>ἂμ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1370 346 3354 466">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1370 346 3354 466">
+     <span class='ocr_line' id='line_1_2' title="bbox 1370 346 3354 466; baseline 0.006 -12"><span class='ocrx_word' id='word_1_3' title='bbox 1370 390 1516 456; x_wconf 71' lang='grc' dir='ltr'><strong>ωε</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1576 382 2173 458; x_wconf 63' lang='lat' dir='ltr'><strong>venum</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2230 346 3354 466; x_wconf 59' lang='lat' dir='ltr'><strong>cxr&#39;notxeA·³ss‘1=·r·nz&#39;r</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3750 5107 4100 5172">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3750 5107 4100 5172">
+     <span class='ocr_line' id='line_1_3' title="bbox 3750 5107 4100 5172; baseline 0.02 -8"><span class='ocrx_word' id='word_1_6' title='bbox 3750 5128 3761 5139; x_wconf 56' lang='lat'>&lt;</span> <span class='ocrx_word' id='word_1_7' title='bbox 3898 5107 4100 5172; x_wconf 56' lang='lat' dir='ltr'><strong>sut,</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
